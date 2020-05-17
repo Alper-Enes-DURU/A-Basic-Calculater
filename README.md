@@ -1,2 +1,2 @@
-# A Basic_Calculater
+# A Basic_Calculator
 Finding Prime number
